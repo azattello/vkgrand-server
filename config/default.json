@@ -1,0 +1,5 @@
+{
+    "serverPort" : 3001,
+    "dbUrl": "mongodb+srv://azatabdykalli:AXN22GuHIG2Dsd10@vk-grand-cargo.gycmyas.mongodb.net/?retryWrites=true&w=majority&appName=vk-grand-cargo",
+    "secretKey" : "mern-secret-key"
+}
